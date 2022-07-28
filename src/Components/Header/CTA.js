@@ -1,5 +1,7 @@
 import React from "react";
+import { Link } from "react-scroll";
 import Resume from "../../assets/resume.pdf";
+
 
 const CTA = () => {
   return (
@@ -7,9 +9,9 @@ const CTA = () => {
       <a href={Resume} download className="btn">
         Download Resume
       </a>
-      <a href="#contact" className="btn btn-primary">
+      <Link to="contact" smooth={true} className="btn btn-primary">
         Let's Talk
-      </a>
+      </Link>
     </div>
   );
 };

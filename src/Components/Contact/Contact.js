@@ -39,7 +39,7 @@ const Contact = () => {
             <BsLinkedin className="contact__option-icon"/>
             <h4>LinkedIn</h4>
             <h5>Lucas Belich</h5>
-            <a href="http://github.com/lucasbelich">Send a message</a>
+            <a href="http://linkedin.com/in/lucasbelich" target="_blank" rel="noopener noreferrer">Send a message</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

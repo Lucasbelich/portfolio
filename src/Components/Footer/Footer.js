@@ -19,9 +19,9 @@ const Footer = () => {
         <li><Link to="contact">Contact</Link></li>
       </ul>
       <div className="footer__socials">
-        <a href="http://linkedin.com/in/lucasbelich"><BsLinkedin/></a>
-        <a href="http://github.com/lucasbelich"><FaGithub/></a>
-        <a href="https://www.instagram.com/lucasbelich/"><BsInstagram/></a>
+        <a href="http://linkedin.com/in/lucasbelich" target="_blank" rel="noopener noreferrer"><BsLinkedin/></a>
+        <a href="http://github.com/lucasbelich" target="_blank" rel="noopener noreferrer"><FaGithub/></a>
+        <a href="https://www.instagram.com/lucasbelich/" target="_blank" rel="noopener noreferrer"><BsInstagram/></a>
       </div>
 
       <div className="footer__copyright">

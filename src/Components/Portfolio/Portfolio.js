@@ -16,12 +16,12 @@ const Portfolio = () => {
       <div className="container portfolio__container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG1} alt=""  />
+            <img src={IMG1} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Go Scrum App (React/Redux)</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Lucasbelich/go-scrum"
               className="btn"
               target="_blank"
               rel="noopener noreferrer"
@@ -29,7 +29,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/lucasb98"
+              href="https://lucasbelich.github.io/go-scrum/#/login"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -42,10 +42,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>E-commerce (React/Firebase)</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Lucasbelich/MEG-Games/"
               className="btn"
               target="_blank"
               rel="noopener noreferrer"
@@ -53,7 +53,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/lucasb98"
+              href="https://lucasbelich.github.io/MEG-Games/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -93,7 +93,7 @@ const Portfolio = () => {
           <h3>This is a portfolio item title</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Lucasbelich/go-scrum"
               className="btn"
               target="_blank"
               rel="noopener noreferrer"
@@ -101,7 +101,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/lucasb98"
+              href="https://lucasbelich.github.io/go-scrum/#/login"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -114,10 +114,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Menu Navigation Circle (HTML/CSS)</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Lucasbelich/menu-nav-circle/"
               className="btn"
               target="_blank"
               rel="noopener noreferrer"
@@ -125,7 +125,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/lucasb98"
+              href="https://lucasbelich.github.io/menu-nav-circle/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -138,10 +138,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Calculator with dark mode (HTML/CSS)</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Lucasbelich/calc-dark-mode"
               className="btn"
               target="_blank"
               rel="noopener noreferrer"
@@ -149,7 +149,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/lucasb98"
+              href="https://lucasbelich.github.io/calc-dark-mode/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
