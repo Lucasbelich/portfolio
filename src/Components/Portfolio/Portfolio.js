@@ -3,7 +3,7 @@ import "./Portfolio.css";
 import IMG1 from "../../assets/Go-Scrum.jpg";
 import IMG2 from "../../assets/MEGGAMES.jpg";
 import IMG3 from "../../assets/alkeflix.jpg";
-import IMG4 from "../../assets/calc.jpg";
+/* import IMG4 from "../../assets/calc.jpg"; */
 import IMG5 from "../../assets/calc.jpg";
 import IMG6 from "../../assets/circle-nav.jpg";
 
