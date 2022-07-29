@@ -1,11 +1,11 @@
 import React from "react";
 import "./Portfolio.css";
-import IMG1 from "../../assets/portfolio1.jpg";
-import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG1 from "../../assets/Go-Scrum.jpg";
+import IMG2 from "../../assets/MEGGAMES.jpg";
+import IMG3 from "../../assets/alkeflix.jpg";
+import IMG4 from "../../assets/calc.jpg";
+import IMG5 from "../../assets/calc.jpg";
+import IMG6 from "../../assets/circle-nav.jpg";
 
 const Portfolio = () => {
   return (
@@ -66,10 +66,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Movies App (React)</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Lucasbelich/alkeflix/"
               className="btn"
               target="_blank"
               rel="noopener noreferrer"
@@ -77,7 +77,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/lucasb98"
+              href="https://lucasbelich.github.io/alkeflix/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -86,7 +86,7 @@ const Portfolio = () => {
             </a>
           </div>
         </article>
-        <article className="portfolio__item">
+        {/* <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG4} alt="" />
           </div>
@@ -109,7 +109,7 @@ const Portfolio = () => {
               Live Demo
             </a>
           </div>
-        </article>
+        </article> */}
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG5} alt="" />
