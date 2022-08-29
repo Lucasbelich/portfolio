@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c2b0284b.css",
-    "main.js": "/portfolio/static/js/main.59328c4d.js",
+    "main.js": "/portfolio/static/js/main.5c554da3.js",
     "static/media/1.png": "/portfolio/static/media/1.254948dba8eb7c7e4f0f.png",
     "static/media/alkeflix.jpg": "/portfolio/static/media/alkeflix.2c378060c093178fafd3.jpg",
     "static/media/Go-Scrum.jpg": "/portfolio/static/media/Go-Scrum.2c80f130ea854bf4d240.jpg",
@@ -12,10 +12,10 @@
     "static/media/4x4.jpg": "/portfolio/static/media/4x4.f2d204d8a14fd22abeff.jpg",
     "index.html": "/portfolio/index.html",
     "main.c2b0284b.css.map": "/portfolio/static/css/main.c2b0284b.css.map",
-    "main.59328c4d.js.map": "/portfolio/static/js/main.59328c4d.js.map"
+    "main.5c554da3.js.map": "/portfolio/static/js/main.5c554da3.js.map"
   },
   "entrypoints": [
     "static/css/main.c2b0284b.css",
-    "static/js/main.59328c4d.js"
+    "static/js/main.5c554da3.js"
   ]
 }
