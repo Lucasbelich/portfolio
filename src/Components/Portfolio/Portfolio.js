@@ -112,7 +112,7 @@ const Portfolio = () => {
         </article> */}
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG5} alt="" />
+            <img src={IMG6} alt="" />
           </div>
           <h3>Menu Navigation Circle (HTML/CSS)</h3>
           <div className="portfolio__item-cta">
@@ -136,7 +136,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG6} alt="" />
+            <img src={IMG5} alt="" />
           </div>
           <h3>Calculator with dark mode (HTML/CSS)</h3>
           <div className="portfolio__item-cta">
